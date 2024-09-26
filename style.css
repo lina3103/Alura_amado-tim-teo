@@ -1,0 +1,26 @@
+body{
+    color: black;
+    background: #65181e7a;
+    margin: 0px;
+}
+
+header{
+    background:#d9c4b1;
+    border-bottom: solid 2px rgb(49 10 5);
+    padding: 20px;
+    font-size: 32px;
+}
+
+.chamatexto{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 150px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+}
